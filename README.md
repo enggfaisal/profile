@@ -1,4 +1,6 @@
-![Full-Stack Web Developer](https://www.linkedin.com/in/enggfaisalofficial/overlay/background-image/)
+![Full-Stack Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQGSkE9NFN-iSQ/profile-displaybackgroundimage-shrink_200_800/0/1609308949898?e=1651104000&v=beta&t=V8b0a3NbNS4_W21Y1Y0jEj_kWMibLpe0R4bjWm5x8gc)
+
+![Profile views](https://gpvc.arturio.dev/enggfaisal)  
 
 ## Hi there 👋,
 #### This is Faisal Ahmed
@@ -76,4 +78,3 @@ Feel free to contact me and you'll discuss your project with me I'm ready for br
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=enggfaisal)  
 
-![Profile views](https://gpvc.arturio.dev/enggfaisal)  
