@@ -1,4 +1,4 @@
-![Full-Stack Web Developer](https://scontent.fjsr11-1.fna.fbcdn.net/v/t1.6435-9/132609269_106536974703527_2085535606428598093_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=eaFpfQcnllUAX_b1Bn0&_nc_ht=scontent.fjsr11-1.fna&oh=e013e0d80122db2dd057378c5ea12e56&oe=61B773D7)
+![Full-Stack Web Developer](https://www.facebook.com/106536188036939/photos/a.106537468036811/106536971370194/)
 
 ## Hi there 👋,
 #### This is Faisal Ahmed
