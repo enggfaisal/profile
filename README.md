@@ -1,13 +1,40 @@
 <img style="height: 300px;width: 1057px" src="https://www.linkpicture.com/q/Black-Blue-Geometric-Tips-Business-Facebook-Cover.png" type="image">
 
-![Profile views](https://gpvc.arturio.dev/BornSupercharged)  
-
-# Hi there 😊 This is Thomas Whitecotton
-
-  <h3 align="center">A passionate frontend developer from India</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=awaisarshad819&label=Profile%20views&color=0e75b6&style=flat" alt="awaisarshad819" /> </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisarshad819&label=Profile%20views&color=0e75b6&style=flat" alt="awaisarshad819" /> </p>
+  <h1 align="center">Hi, I’m Muhammad Awais</h1>
+  <h3 align="center">A PASSIONIATE DEVELOPER FOR WORDPRESS, WOOCOMMERCE AND BACKEND </h3>
+ 
+<p style="color:blue;text-align:center;">
+An expert computer scientist with diverse work experience in developing and customizing WordPress and
+WooCommerce websites, including programming, software development, and consulting.
+Extensive knowledge of the software development cycle and proficiency in several programming languages and
+backend technologies such as PHP, JavaScript, and SQL.
+Dedicated to meeting customer requirements with innovative solutions that maximize efficiency and exceed capability
+targets.
+Consistently use in-depth knowledge of budgetary issues affecting development and implementation to create cost effective solutions. Comfortable discussing technical issues and solutions with scientists, analysts and clients.
+</p>
+
+
+# ACADEMICS
+<p><b>University of Engineering and Technology (UET) </b> </p> 
+<p>🥇BS in Computer Science  (2018 - 2022)</p>
+
+<p><b>ILM College Multan </b> </p> 
+<p>🥇Intermediate, Pre-Engineering  (2016 - 2018)</p>
+
+<p><b>Govt. High School 136/10-R </b> </p> 
+<p>🥇Matric, Science  (2014 - 2016)</p>
+
+ 
+
+
+
+
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaisarshad819" alt="awaisarshad819" /></a> </p>
 
