@@ -6,7 +6,7 @@
     <h1> Hi there, I’m Muhammad Awais👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Wordpress+Developer;Python+Backend+Engineer;Woocommerce+Devloper&center=true&width=500&height=50"></a>
+<a href="https://github.com/"><img src="https://readme-typing-svg.herokuapp.com?lines=Practicing+Data+Science+Enthusiast;Pursued+Master's+in+Big+Data+and+Business +Analytics;Woocommerce+Devloper&center=true&width=500&height=50"></a>
   
   
   ## Personal Website 
