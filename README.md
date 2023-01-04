@@ -3,40 +3,83 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=awaisarshad819&label=Profile%20views&color=0e75b6&style=flat" alt="awaisarshad819" /> </p>
 
 <div align="center">
-    <h1> Hi there, I’m Muhammad Awais👋<a href="#"></h1>
+    <h1> Hi there, I’m ABHISHEK PANDVE👋<a href="#"></h1>
   </div>
+
 <p align="center">
-<a href="https://github.com/"><img src="https://readme-typing-svg.herokuapp.com?lines=Practicing+Data+Science+Enthusiast;Pursued+Master's+in+Big+Data+and+Business +Analytics;Woocommerce+Devloper&center=true&width=500&height=50"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Practicing+Data+Science+Enthusiast.;Pursued+Master's+in+Big+Data;Motivated+self-starter;troubleshooting+skills" alt="Typing SVG" /></a> 
+</p>
   
   
-  ## Personal Website 
-- [Please take a look !](https://portfolio.apexspace.net/)
-<img align="right" alt="" src="fresh.jpg" width="22%" />
+
   
-  ### A PASSIONIATE DEVELOPER FOR WORDPRESS, WOOCOMMERCE AND BACKEND
-
-- 🔭 An expert computer scientist with diverse work experience in developing and customizing WordPress and
-     WooCommerce websites, including programming, software development, and consulting.
-  
-- 🌱 Extensive knowledge of the software development cycle and proficiency in several programming languages and
-     backend technologies such as PHP, JavaScript, and SQL.
-  
-- 👯 Dedicated to meeting customer requirements with innovative solutions that maximize efficiency and exceed capability
-     targets.
-
-- 📢 onsistently use in-depth knowledge of budgetary issues affecting development and implementation to create costeffective solutions. Comfortable discussing technical issues and solutions with scientists, analysts and clients.
-
-# ACADEMICS
-<p><b>University of Engineering and Technology (UET) </b> </p> 
-<p>🥇BS in Computer Science  (2018 - 2022)</p>
-
-<p><b>ILM College Multan </b> </p> 
-<p>🥇Intermediate, Pre-Engineering  (2016 - 2018)</p>
-
-<p><b>Govt. High School 136/10-R </b> </p> 
-<p>🥇Matric, Science  (2014 - 2016)</p>
+### A Passioniate Big Data and Business Analytics
+ 🎯 <b>OBJECTIVE </b> <br>
 	
+
+Practicing Data Science Enthusiast. Pursued Master's in Big Data and Business Analytics.
+Motivated self-starter looking to leverage problem solving skills, troubleshooting skills, math
+knowledge, and visualization skills to grow in the field of analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# EDUCATION
+<p><b>FOM Hochschule Essen, Germany </b> </p> 
+<p>🥇MSc Big Data and Business Analytics | Obtained 2.6 GPA  (February 2020 — November 2022)</p>
+
+<p><b>Dr. Babasaheb Ambedkar Marathwada University, India</b> </p> 
+<p>🥇Bachelor of Computer Application (March 2016 — April 2019)</p>
+
 	
+# EXPERIENCE
+
+<p><b>Software Associate </b> </p> 
+
+<p><b>✔Sina project solution Pvt.Ltd, Hyderabad, India  ( May 2019 — December 2019 )</b> <br>
+
+📌Developed and debugged a client-based management utility for initializing and monitoring.. <br>
+
+📌 In charge of developing & maintaining test plans and scenarios for various software products. . <br>
+
+📌Software Quality Assurance - Participated in the design and specifications reviews with the
+client and the development team.<br>
+
+📌 Assisted the engineer in maintaining development and integration build databases and various
+application constraints in Power script and SQL.<br>
+
+
+</p>
+
+
+
+
 # CERTIFICATE
 <p><b>CertifiedWebProfessional - E-Commerce Specialist(CWP) </b> </p> 
 <p>🥇IRILL  -  (2019 - No Expiration Date)</p>
@@ -47,9 +90,14 @@
 	
 # CORE COMPETENCIES
 <b>📌Programming Languages:</b> PHP | Object Oriented Programming, AJAX | Javascript | C++ | C# | Jquery | XAML | Java | Python. <br>
+
 <b>📌Frameworks:</b> Bootstrap | NET | Codeigniter. <br>
+
 <b>📌Databases:</b> SQL | MYSQL | NoSQL.<br>
+
 <b>📌CMS:</b> WordPress | Shopify | Drupal.<br>
+
+
 <b>📌Web Servers / APIs:</b> REST APIS | Google API | Apache | Mail Chimp API | Payments Gateways.<br>
 <b>📌Digital Marketing:</b> Initial Website Audit | Google Search Console | Google Analytics | SEO | Google ADS | Google Tag
      Manager | On-Page SEO | Facebook Pixel | Facebook Catalogue. <br>
